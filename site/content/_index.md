@@ -3,10 +3,10 @@ title: "Seasonally Brained"
 subtitle: Writings for my neuordivergent Self 
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: "Why Seasonally Brained?"
+    heading: Why Seasonally Brained?
     text: "This is for exploring my neurodivergence and general place to start writing. My next season is one reflection & action, starting to practice the practice of writing, whatever season I'm in at the time. Listening to Seth Godin's advice, "If it doesn't ship, it doesn't exist.""
 intro:
-    heading: "What we offer"
+    heading: What we offer
     text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
 products:
     - image: img/illustrations-coffee.svg
